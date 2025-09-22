@@ -1,5 +1,15 @@
 <div align=left>
-	<h3>📚 Tech Stack </h3>
+	<h2> ⭐ Interests </h2>
+	● Intelligent <b>Robot Control </b>
+	<br>
+	● Integration of <b>RL</b> with Other <b>AI</b> Fields 
+</div>
+<div align=left>
+	<h2> 🎓️ Education </h2>
+	<b>[BS]</b> Sangmyung University, Department of Human centered Artificial intelligence (2020.03~)
+</div>
+<div align=left>
+	<h2>📚 Tech Stack </h2>
 	<b>✨ Languages </b>
 </div>
 <br>
@@ -77,9 +87,13 @@
 	</a> -->
 </div> 
 <div align=left>
+	<h2>📊 GitHub Stats & Most Languages </h2>
+</div>
+<div align=left>
 	<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dla0712tmd&layout=compact">
 <img src="https://github-readme-stats.vercel.app/api?username=dla0712tmd&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dla0712tmd&layout=compact">
+
 
 <br>
 <!-- <p>🏆 Baekjoon solved rank 🏆</p>
