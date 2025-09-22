@@ -6,7 +6,7 @@
 </div>
 <div align=left>
 	<h2> 🎓️ Education </h2>
-	<b>[BS]</b> Sangmyung University, Department of Human centered Artificial intelligence (2020.03~)
+	<b>[B.S.]</b> Sangmyung University, Department of Human centered Artificial intelligence (2020.03~)
 </div>
 <div align=left>
 	<h2>📚 Tech Stack </h2>
