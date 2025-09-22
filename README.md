@@ -43,6 +43,7 @@
 	<br>
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
 	<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+	<img src="https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white" />
 	<img src="https://img.shields.io/badge/ROS-22314E?style=flat&logo=ROS&logoColor=white" />
 </div>
 <br>
