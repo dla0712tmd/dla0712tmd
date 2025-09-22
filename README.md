@@ -51,7 +51,7 @@
 <div align=left>
 	<img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=raspberrypi&logoColor=white" />
-	<img src="https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white" />
+	<img src="https://img.shields.io/badge/STM-03234B?style=flat&logo=stmicroelectronics&logoColor=white" />
 </div>
 <br>
 <div align=left>
