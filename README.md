@@ -1,6 +1,6 @@
 <div align=left>
 	<h2> ⭐ Interests </h2>
-	● Intelligent <b>Robot Control </b>
+	● <b>Embodied AI & Generalist Robots </b>
 	<br>
 	● Integration of <b>RL</b> with Other <b>AI</b> Fields 
 </div>
