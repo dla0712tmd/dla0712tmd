@@ -20,7 +20,7 @@
 	<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=Pandas&logoColor=white" />
 	<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
 	<br>
-	<img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
+	<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
 	<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white" />
 	<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
 <!-- 	<img src="https://img.shields.io/badge/Matplotlib-eef3f5?style=flat&logo=matplotlib&logoColor=white" />
@@ -33,7 +33,7 @@
 </div>
 <br>
 <div align=left>
-	<p>🛠 Tool</p>
+	<p>🛠 S/W Tool</p>
 </div>
 <div align=left>
 	<img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/>
@@ -46,8 +46,16 @@
 	<img src="https://img.shields.io/badge/ROS-22314E?style=flat&logo=ROS&logoColor=white" />
 </div>
 <br>
+<p>⚙ H/W Tool</p>
+</div>
 <div align=left>
-	<p>🎨 SNS & Portfolio </p>
+	<img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=raspberrypi&logoColor=white" />
+	<img src="https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white" />
+</div>
+<br>
+<div align=left>
+<!-- 	<p>🎨 SNS & Portfolio </p>
 </div>
 <div align=left>
 <!-- 	<a href="https://yermi.co.kr">
@@ -56,14 +64,13 @@
 <!-- 	<a href="https://yermi.tistory.com">
 		<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
 	</a> -->
-	<a href="mailto:dlagus0712@gmail.com">
+<!-- 	<a href="mailto:dlagus0712@gmail.com">
 		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
 	</a>
 	<a href="https://spectacled-chemistry-03c.notion.site/2761608524be8064807eec2f78418b00">
 		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
-	</a>
-	<br>
-</div>
+	</a> -->
+</div> 
 <div align=left>
 	<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dla0712tmd&layout=compact">
