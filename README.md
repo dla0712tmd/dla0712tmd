@@ -1,6 +1,6 @@
 <div align=left>
 	<h3>📚 Tech Stack </h3>
-	<p>✨ Languages </p>
+	<b>✨ Languages </b>
 </div>
 <div align="left">
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
@@ -14,7 +14,7 @@
 </div>
 <br>
 <div align=left>
-	<p>🧠 DA/ML/DL</p>
+	<b>🧠 DA/ML/DL</b>
 </div>
 <div align=left>
 	<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=Pandas&logoColor=white" />
@@ -33,7 +33,7 @@
 </div>
 <br>
 <div align=left>
-	<p>🛠 S/W Tool</p>
+	<b>🛠 S/W Tool</b>
 </div>
 <div align=left>
 	<img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/>
@@ -46,7 +46,7 @@
 	<img src="https://img.shields.io/badge/ROS-22314E?style=flat&logo=ROS&logoColor=white" />
 </div>
 <br>
-<p>⚙ H/W Tool</p>
+<b>⚙ H/W Tool</b>
 </div>
 <div align=left>
 	<img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white"/>
