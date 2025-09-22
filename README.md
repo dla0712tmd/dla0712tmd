@@ -2,7 +2,7 @@
 	<h2> ⭐ Interests </h2>
 	● <b>Embodied AI & Generalist Robots </b>
 	<br>
-	● <b>Multi-Agent & Distributional RL </b> 
+	● <b>Multi-Agent & Distributional Reinforcement Learning </b> 
 </div>
 <div align=left>
 	<h2> 🎓️ Education </h2>
