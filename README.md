@@ -8,6 +8,10 @@
 	<br>
 	&ensp;&ensp;∘ Object Detection, Segmentation, Face Emotions Recognition (FER)
 	<br>
+	● <b> Multimodal AI</b>
+	<br>
+	&ensp;&ensp;∘ Vision-Language Model (VLM), Vision-Language Action (VLA)
+	<br>
 	● <b> Robotics </b>
 	<br>
 	&ensp;&ensp;∘ Mobile Robot, Swarm Robot, Human-Robot Interaction (HRI)
