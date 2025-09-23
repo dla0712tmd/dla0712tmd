@@ -2,15 +2,15 @@
 	<h2> ⭐ Interests </h2>
 	● <b>Reinforcement Learning </b>
 	<br>
-	&emsp;∘ Multi-Agent RL, Imitation Learning, Sim2Real
+	&ensp;&ensp;∘ Multi-Agent RL, Imitation Learning, Sim2Real
 	<br>
 	● <b> Computer Vision </b> 
 	<br>
-	&emsp;∘ Object Detection, Segmentation, Face Emotions Recognition (FER)
+	&ensp;&ensp;∘ Object Detection, Segmentation, Face Emotions Recognition (FER)
 	<br>
 	● <b> Robotics </b>
 	<br>
-	&emsp;∘ Mobile Robot, Swarm Robot, Human-Robot Interaction (HRI)
+	&ensp;&ensp;∘ Mobile Robot, Swarm Robot, Human-Robot Interaction (HRI)
 	<br>
 	
 </div>
