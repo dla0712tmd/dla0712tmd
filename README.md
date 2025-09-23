@@ -1,8 +1,17 @@
 <div align=left>
 	<h2> ⭐ Interests </h2>
-	● <b>Embodied AI & Generalist Robots </b>
+	● <b>Reinforcement Learning </b>
 	<br>
-	● <b>Multi-Agent & Distributional Reinforcement Learning </b> 
+	&emsp;∘ Multi-Agent RL, Imitation Learning, Sim2Real
+	<br>
+	● <b> Computer Vision </b> 
+	<br>
+	&emsp;∘ Object Detection, Segmentation, Face Emotions Recognition (FER)
+	<br>
+	● <b> Robotics </b>
+	<br>
+	&emsp;∘ Mobile Robot, Swarm Robot, Human-Robot Interaction (HRI)
+	<br>
 	
 </div>
 <div align=left>
