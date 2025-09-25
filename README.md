@@ -2,7 +2,7 @@
 	<h2> ⭐ Interests </h2>
 	● <b>Reinforcement Learning </b>
 	<br>
-	&ensp;&ensp;∘ Multi-Agent RL, Imitation Learning, Sim2Real
+	&ensp;&ensp;∘ Multi-Agent & Hybrid RL, Imitation Learning, Sim2Real
 	<br>
 	● <b> Computer Vision </b> 
 	<br>
