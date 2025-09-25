@@ -14,7 +14,7 @@
 	<br>
 	● <b> Robotics </b>
 	<br>
-	&ensp;&ensp;∘ Mobile Robot, Swarm Robot, Human-Robot Interaction (HRI)
+	&ensp;&ensp;∘ AMR, Multi-Robot System(MRS), Human-Robot Interaction (HRI)
 	<br>
 	
 </div>
