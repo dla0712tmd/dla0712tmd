@@ -1,21 +1,9 @@
 <div align=left>
 	<h2> ⭐ Interests </h2>
 	● <b>Reinforcement Learning </b>
-	<br>
-	&ensp;&ensp;∘ Multi-Agent & Hybrid RL, Imitation Learning, Sim2Real
-	<br>
 	● <b> Computer Vision </b> 
-	<br>
-	&ensp;&ensp;∘ Object Detection, Segmentation, Face Emotions Recognition (FER)
-	<br>
 	● <b> Multimodal AI</b>
-	<br>
-	&ensp;&ensp;∘ Vision-Language Model (VLM), Vision-Language Action (VLA)
-	<br>
 	● <b> Robotics </b>
-	<br>
-	&ensp;&ensp;∘ AMR, Multi-Robot System(MRS), Human-Robot Interaction (HRI)
-	<br>
 	
 </div>
 <div align=left>
