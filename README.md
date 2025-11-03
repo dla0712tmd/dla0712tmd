@@ -1,8 +1,11 @@
 <div align=left>
 	<h2> ⭐ Interests </h2>
 	● <b>Reinforcement Learning </b>
-	● <b> Computer Vision </b> 
+	<br>
+	● <b> Computer Vision </b>
+	<br>
 	● <b> Multimodal AI</b>
+	<br>
 	● <b> Robotics </b>
 	
 </div>
