@@ -8,11 +8,11 @@
 	<br>
 	● <b> Robotics </b>
 	
-</div>
+<!-- </div>
 <div align=left>
 	<h2> 🎓️ Education </h2>
 	<b>[B.S.]</b> Sangmyung University, Department of Human centered Artificial intelligence (2020.03~)
-</div>
+</div> -->
 <div align=left>
 	<h2>📚 Tech Stack </h2>
 	<b>✨ Languages </b>
@@ -36,16 +36,12 @@
 <div align=left>
 	<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=Pandas&logoColor=white" />
 	<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+	<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
 	<br>
 	<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
-	<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white" />
-	<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
+	<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
 <!-- 	<img src="https://img.shields.io/badge/Matplotlib-eef3f5?style=flat&logo=matplotlib&logoColor=white" />
 	<img src="https://img.shields.io/badge/Seaborn-7aadba?style=flat&logo=seaborn&logoColor=white" /> -->
-	<br>
-	<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
-	<img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white" />
-	<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
 <!-- 	<img src="https://img.shields.io/badge/Open3D-000000?style=flat&logo=open3d&logoColor=white" /> -->
 </div>
 <br>
@@ -91,13 +87,13 @@
 		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 	</a> -->
 </div> 
-<div align=left>
+<!-- <div align=left>
 	<h2>📊 GitHub Stats & Most Languages </h2>
 </div>
 <div align=left>
 	<br>
 <img src="https://github-readme-stats.vercel.app/api?username=dla0712tmd&show_icons=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dla0712tmd&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dla0712tmd&layout=compact"> -->
 
 
 <br>
