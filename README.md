@@ -1,5 +1,5 @@
 <div align=left>
-	<h2> ⭐ Interests </h2>
+	<h2> Interests </h2>
 	● <b>Reinforcement Learning </b>
 	<br>
 	● <b> Computer Vision </b>
@@ -14,8 +14,8 @@
 	<b>[B.S.]</b> Sangmyung University, Department of Human centered Artificial intelligence (2020.03~)
 </div> -->
 <div align=left>
-	<h2>📚 Tech Stack </h2>
-	<b>✨ Languages </b>
+	<h2> Tech Stack </h2>
+	<b>Languages </b>
 </div>
 <br>
 <div align="left">
@@ -30,15 +30,14 @@
 </div>
 <br>
 <div align=left>
-	<b>🧠 DA/ML/DL</b>
+	<b>RL/DL</b>
 </div>
 <br>
 <div align=left>
-	<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=Pandas&logoColor=white" />
-	<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+	<img src="https://img.shields.io/badge/Gymnasium-0081A5?style=flat&logo=openaigym&logoColor=white" />
 	<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
 	<br>
-	<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
+	<img src="https://img.shields.io/badge/huggingface-FFD21E?style=flat&logo=huggingface&logoColor=white" />
 	<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
 <!-- 	<img src="https://img.shields.io/badge/Matplotlib-eef3f5?style=flat&logo=matplotlib&logoColor=white" />
 	<img src="https://img.shields.io/badge/Seaborn-7aadba?style=flat&logo=seaborn&logoColor=white" /> -->
@@ -46,30 +45,30 @@
 </div>
 <br>
 <div align=left>
-	<b>🛠 S/W Tool</b>
+	<b> Tool</b>
 </div>
 <br>
 <div align=left>
-	<img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/>
 	<img src="https://img.shields.io/badge/jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
 	<img src="https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white" />
 	<br>
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
 	<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
-	<img src="https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white" />
 	<img src="https://img.shields.io/badge/ROS-22314E?style=flat&logo=ROS&logoColor=white" />
+	<br>
+	<img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=raspberrypi&logoColor=white" />
 </div>
 <br>
 <div align=left>
-<b>⚙ H/W Tool</b>
+<!-- <b> H/W Tool</b>
 </div>
 <br>
 <div align=left>
 	<img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=raspberrypi&logoColor=white" />
-	<img src="https://img.shields.io/badge/STM-03234B?style=flat&logo=stmicroelectronics&logoColor=white" />
 </div>
-<br>
+<br> -->
 <div align=left>
 <!-- 	<p>🎨 SNS & Portfolio </p>
 </div>
