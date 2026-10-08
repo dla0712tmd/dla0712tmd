@@ -4,6 +4,6 @@
 	<br>
 	● <b> Vision-Language Action</b>
 	<br>
-	● <b> Robotics </b>
+	● <b> Robot Manipulation </b>
 	
 
